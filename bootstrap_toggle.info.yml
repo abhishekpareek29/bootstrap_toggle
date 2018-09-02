@@ -1,0 +1,12 @@
+name: Bootstrap Toggle
+description: Provides Bootstrap Toggle Button as a widget for boolean field.
+type: module
+# core: 8.x
+dependencies:
+  - libraries
+
+# Information added by Drupal.org packaging script on 2016-12-13
+version: '8.x-1.0'
+core: '8.x'
+project: 'bootstrap_toggle'
+datestamp: 1481613487
