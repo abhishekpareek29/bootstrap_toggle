@@ -5,7 +5,7 @@ https://www.drupal.org/project/bootstrap_toggle
 INTRODUCTION
 ------------
 
-Module provides a toggle widget for Boolean field type using bootstrap
+This module provides a toggle widget for Boolean field type using bootstrap
 toggle library.
 
 
